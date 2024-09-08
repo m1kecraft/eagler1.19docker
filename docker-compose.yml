@@ -1,0 +1,16 @@
+services:
+  server:
+    build:
+        context: .
+        dockerfile: server.Dockerfile
+    ports:
+      - "25577:25577"
+      - "25565:25565"
+    container_name: server
+  bungee:
+    build:
+        context: .
+        dockerfile: bungee.Dockerfile
+    ports:
+      - "3000:3000"
+    container_name: bungee
