@@ -6,8 +6,9 @@
 <meta name='eaglercraft, eaglercraftx, eagler, eaglercraftx server, eaglercraft server' content='HTML, JavaScript, Shell, Batchfile'>
 
 # EaglercraftX 1.19 Server (DISCONTINUED)
-I added docker compose
+I tried to add docker compose
 (port 3000 now)
+(it dosn't work)
 > [!CAUTION]
 > This project has been discontinued as of Aug 28th, 2024. Mod versions and doccumentation may be out of date. Users are encouraged to look for newer fork(s) of this program or update instances independently. 
 
